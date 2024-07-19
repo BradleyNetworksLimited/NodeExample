@@ -1,0 +1,23 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "An example/sample NodeJS project for testing & development!",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradleyNetworksLimited/NodeExample.git"
+  },
+  "author": "Bradley Morrissey",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/BradleyNetworksLimited/NodeExample/issues"
+  },
+  "homepage": "https://github.com/BradleyNetworksLimited/NodeExample#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
